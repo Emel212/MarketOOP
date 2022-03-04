@@ -10,7 +10,7 @@ Kullanıcı, satış ekranından satış yapabilir, yaptığı satışlar için 
 #### 2)Yönetici paneli:
 Bu ekranda ise yönetici; ürün, kasa, kategori, personel vb ekleme ve düzenleme işlemlerini yapar ve bunlara ait raporları görüntüler.
 ## Veri tabanı görsel çıktısı
-![alt text](https://github.com/Qwerty21122/MarketOOP/blob/master/MarketOOP.png?raw=true)
+![alt text](https://github.com/Emel212/MarketOOP/blob/master/MarketOOP.png?raw=true)
 
 ## Veri tabanı kısa açıklamalar
 Bu kısımda veri tabanıyla ilgili kafada soru işareti bırakması muhtemel kısımları açıklamaya çalışacağım
@@ -42,7 +42,7 @@ Bit tipinde olup borcun ödenip ödenmediğine dair bilgi verir. Ödenen tutar t
 
 ## MİMARİ 
 
-![alt text](https://github.com/Qwerty21122/MarketOOP/blob/master/Mimari.jpg?raw=true)
+![alt text](https://github.com/Emel212/MarketOOP/blob/master/Mimari.jpg?raw=true)
 
 Entity, içerisinde veri tabanındaki tabloları temsil eden sınıfları bulundurur. Bu sınıfların herbiri içerisinde SQL prosedurlerindeki parametreleri temsil eden nesneleri barındırır.
 Facade ise Entity Classlarina ait metotları içeren generic Sınıfları barındırır, bu sınıflar ORMBase sınıfından miras alır.
